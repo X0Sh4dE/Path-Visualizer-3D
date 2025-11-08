@@ -27,7 +27,7 @@ Press Play to start testing inside Unity
 
 Or build standalone executable under File → Build Settings
 
-#**Controls & Usage**
+## **Controls & Usage**
 Use the UI buttons to generate maze, set source and destination nodes, and start pathfinding
 
 Press **H** to toggle UI visibility during gameplay
