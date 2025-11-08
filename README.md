@@ -33,7 +33,7 @@ Use the UI buttons to generate maze, set source and destination nodes, and start
 Press **H** to toggle UI visibility during gameplay
 
 Press **D** to switch dual camera views mode
-<br>Press **T** to switch to top-down view 
-<br>Press **F** to switch to third person perspective 
+<br> Press **T** to switch to top-down view 
+<br> Press **F** to switch to third person perspective 
 
 Press **Q** to quit the game during standalone execution
