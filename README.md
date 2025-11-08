@@ -15,6 +15,7 @@
 ## **Prerequisites**
 
 Unity 2020.3 *(or later recommended)*
+
 Windows/Mac/Linux platform supported
 
 ## **Running the Project**
