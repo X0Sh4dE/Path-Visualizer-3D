@@ -3,15 +3,11 @@
 
 #**Features**
 
-Multiple AI Search Algorithms: BFS, DFS, A*, Dijkstra, Greedy Best First
-
-Multiple Camera Views for maze and path exploration visualization
-
-Dynamic Maze Generation with adjustable path variation and complexity
-
-Real-time Visualizations of node exploration, path cost, and length
-
-Educational Tool for understanding AI and pathfinding concepts interactively
+* Multiple AI Search Algorithms: BFS, DFS, A*, Dijkstra, Greedy Best First
+* Multiple Camera Views for maze and path exploration visualization
+* Dynamic Maze Generation with adjustable path variation and complexity
+* Real-time Visualizations of node exploration, path cost, and length
+* Educational Tool for understanding AI and pathfinding concepts interactively
 
 Standalone Builds for easy distribution without Unity Editor
 
