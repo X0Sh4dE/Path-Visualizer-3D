@@ -17,7 +17,7 @@
 Unity 2020.3 *(or later recommended)*
 Windows/Mac/Linux platform supported
 
-#**Running the Project**
+## **Running the Project**
 
 Clone or download this repository
 Open the project folder with Unity Editor
