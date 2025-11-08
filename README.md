@@ -32,7 +32,7 @@ Or build standalone executable under File → Build Settings
 Use the UI buttons to generate maze, set source and destination nodes, and start pathfinding
 
 Press **H** to toggle UI visibility during gameplay
-Press **D** to switch dual camera views mode
+<br> Press **D** to switch dual camera views mode
 <br> Press **T** to switch to top-down view 
 <br> Press **F** to switch to third person perspective 
 
