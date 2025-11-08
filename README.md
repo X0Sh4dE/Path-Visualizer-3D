@@ -28,17 +28,6 @@ Press Play to start testing inside Unity
 
 Or build standalone executable under File → Build Settings
 
-PathVisualizer-Unity/
-├── Assets/                 # All Unity assets and scripts
-├── ProjectSettings/        # Unity project configuration files
-├── Scenes/
-│   ├── MainMenu.unity
-│   ├── GameLevel.unity
-│   └── LoadingScreen.unity
-├── README.md
-├── .gitignore
-
-
 ## **Controls & Usage**
 Use the UI buttons to generate maze, set source and destination nodes, and start pathfinding
 
