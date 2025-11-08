@@ -13,6 +13,7 @@ Standalone Builds for easy distribution without Unity Editor
 #**Getting Started**
 
 **Prerequisites**
+
 Unity 2020.3 *(or later recommended)*
 Windows/Mac/Linux platform supported
 
