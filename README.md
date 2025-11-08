@@ -1,8 +1,8 @@
-##Path Visualizer
+# Path Visualizer
 
 *An interactive Unity3D game that visualizes traditional AI search algorithms on dynamically generated mazes. Designed for students, developers, and AI enthusiasts to explore BFS, DFS, Dijkstra, A* **, and Greedy Best First Search with real-time, step-by-step animations.*
 
-#**Features**
+# Features 
 
 * Multiple AI Search Algorithms: BFS, DFS, A*, Dijkstra, Greedy Best First
 * Multiple Camera Views for maze and path exploration visualization
@@ -10,11 +10,9 @@
 * Real-time Visualizations of node exploration, path cost, and length
 * Educational Tool for understanding AI and pathfinding concepts interactively
 
-Standalone Builds for easy distribution without Unity Editor
+# **Getting Started**
 
-#**Getting Started**
-
-**Prerequisites**
+## **Prerequisites**
 
 Unity 2020.3 *(or later recommended)*
 Windows/Mac/Linux platform supported
